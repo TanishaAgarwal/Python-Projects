@@ -50,5 +50,5 @@ while True:
         dice = random.randrange(1,7)
         printDice(dice)
     else:
-        print('Thank You!! We are closing your game.')
+        print('Thank You!! We are closing the game.')
         break
