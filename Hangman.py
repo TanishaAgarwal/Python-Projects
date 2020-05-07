@@ -42,7 +42,7 @@ def hangman():
                 print("Enter valid letter..")
         else:
             print("Yeah!! you guessed the whole word correctly :-)")
-            p
+            
             break
             
 def printMan(turn):
