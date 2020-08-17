@@ -1,7 +1,7 @@
 import random
 
 def hangman():
-    word = random.choice(["peach", "banana", "apple", "grapes", "strawberry", "pineapple", "raspberry"])
+    word = random.choice([ "cucumber","peach", "banana", "apple", "grapes", "strawberry", "pineapple", "raspberry"])
     validLetters = 'abcdefghijklmnopqrstuvwxyz'
     turn = 10
     guessMade = ""
